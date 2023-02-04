@@ -1,4 +1,4 @@
-@media(min-width:375px) and (max-width:1440px){
+@media(min-width:370px) and (max-width:1440px){
 body{
     background-color: hsl(29, 54%, 83%);
     min-height: 100vh;
